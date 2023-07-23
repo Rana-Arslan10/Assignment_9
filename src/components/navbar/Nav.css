@@ -1,0 +1,17 @@
+.h{
+     word-spacing: 20px;
+     font-weight: bold;
+     color: white;
+     display: flex;
+     justify-content: flex-end;
+}
+.btn{
+    background-color:rgb(135, 38, 239);
+     color: aliceblue;
+     margin-left: 40px;
+     margin-right: 30px;
+     
+}
+.a{
+     padding: 20px;
+}
